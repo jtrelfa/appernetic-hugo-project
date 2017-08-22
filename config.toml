@@ -1,9 +1,9 @@
-baseurl = "https://www.example.com/"
+baseurl = "http://www.trelfa.org/"
 languageCode = "en-us"
-title = "Blackburn Theme Demo"
+title = "Jon Trelfa"
 theme = "blackburn"
-author = "Yoshiharu Yamashita"
-copyright = "&copy; 2016. All rights reserved."
+author = "Jon Trelfa"
+copyright = "&copy; 2017. All rights reserved."
 canonifyurls = true
 paginate = 10
 
